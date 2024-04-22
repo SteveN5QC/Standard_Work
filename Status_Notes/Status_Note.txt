@@ -1,0 +1,287 @@
+
+
+Changes ONLY for 2024.04.22
+
+
+N5QCsPi
+
+     https://github.com/SteveN5QC/Python.git --> Pi_20240422  (PUSHED -- MERGED -- fetch -- branch)
+
+
+
+
+N5QC on HP
+
+     https://github.com/SteveN5QC/N5QC_EmComm_Tools.git --> Planned
+
+     https://github.com/SteveN5QC/Python.git --> N5QC_20240422  (PUSHED -- MERGED -- fetch -- branch)
+
+
+
+Changes ONLY for 2024.04.21
+
+
+N5QCsPi
+
+     https://github.com/SteveN5QC/Python.git --> Pi_20240421  (PUSHED -- MERGED -- FETCHED -- BRANCHED)
+
+
+
+
+N5QC on HP
+
+     https://github.com/SteveN5QC/Python.git --> N5QC_20240421_2  (PUSHED -- MERGED -- FETCHED -- BRANCHED)
+
+
+
+Changes ONLY for 2024.04.20
+
+
+N5QCsPi
+
+     https://github.com/SteveN5QC/Python.git --> Planned
+
+
+
+
+N5QC on HP
+
+     https://github.com/SteveN5QC/N5QC_EmComm_Tools.git --> N5QC_20240420  (FETCHED -- BRANCHED -- EDITED -- PUSHED)
+
+     https://github.com/SteveN5QC/Python.git --> N5QC_20240420  (PUSHED -- MERGED -- FETCHED -- EDITED -- PUSHED)
+
+
+
+
+
+
+Changes ONLY for 2024.04.18 going into 2024.04.19
+
+N5QCsPi
+
+     https://github.com/SteveN5QC/Python.git --> N5QC_Pi_20240419  (nothing to push -- MERGED -- FETCHED -- BRANCHED)
+
+     Pico_Balloons  --> Branch:  Python_20240414 is Current
+
+
+PythonN5QC
+
+     https://github.com/SteveN5QC/Python.git --> Python_20240419  (PUSHED -- MERGED -- FETCHED -- BRANCHED)
+
+
+N5QC on HP
+
+     https://github.com/SteveN5QC/Python.git --> N5QC_20240418_2  --> N5QC_20240419  (PUSHED -- MERGED -- FETCHED -- BRANCHED)
+
+
+
+
+
+Status for 2024.04.17 going into 2024.04.18
+
+
+PythonN5QC
+
+     Ham_Pi --> Branch:  Python_20240414 is Current  
+     Pico_Balloons  --> Branch:  Python_20240414 is Current
+     Python  --> Branch:  Python_20240418 --> Python_20240418_2 --> Python_20240418_3
+
+
+
+N5QC on HP
+
+     https://github.com/SteveN5QC/Git_Education.git  -- Have Local Branch N5QC_20240408_2  -->  Current good active
+
+     https://github.com/SteveN5QC/DigiPi.git --> N5QC_20240417   (PUSHED -- MERGED -- FETCHED -- BRANCHED)
+
+     https://github.com/SteveN5QC/Arduino.git --> N5QC_20240417   (PUSHED -- MERGED -- FETCHED -- BRANCHED)
+
+     https://github.com/SteveN5QC/Python.git --> N5QC_20240418_2   (PUSHED -- MERGED -- FETCHED -- BRANCHED)
+
+     https://github.com/SteveN5QC/Ham_Pi.git --> N5QC_20240412 -->  Current good active
+
+     https://github.com/SteveN5QC/Pico_Balloons.git --> N5QC_20240417   (PUSHED -- MERGED -- FETCHED -- BRANCHED)
+
+     https://github.com/SteveN5QC/SDR.git --> N5QC_20240417   (PUSHED -- MERGED -- FETCHED -- BRANCHED)
+
+     https://github.com/SteveN5QC/N5QC_EmComm_Tools.git --> N5QC_20240417 -->  Current good active
+
+     https://github.com/SteveN5QC/Backlog.git --> N5QC_20240417   (NEW -- FETCHED -- BRANCHED)
+
+     https://github.com/SteveN5QC/Standard_Work.git --> N5QC_20240417   (NEW -- CLONED -- FETCHED -- BRANCHED)
+
+
+
+
+
+
+
+Status for 2024.04.16
+
+https://github.com/SteveN5QC/Git_Education.git  -- Have Local Branch N5QC_20240408_2  -->  Current good active
+
+https://github.com/SteveN5QC/DigiPi.git --> N5QC_20240412  --> N5QC_20240415 is a branch of N5QC_20240412   (PUSHED -- MERGED -- FETCHED -- BRANCHED)
+
+https://github.com/SteveN5QC/Arduino.git -- Have Local Branch N5QC_20240410 -->  Current good active
+
+https://github.com/SteveN5QC/Python.git --> N5QC_20240414 --> N5QC_20240415 is a branch of N5QC_20240414  (PUSHED -- MERGED -- FETCHED -- BRANCHED)
+
+https://github.com/SteveN5QC/Ham_Pi.git --> N5QC_20240412   (NEW -- FETCHED -- BRANCHED)
+
+https://github.com/SteveN5QC/Pico_Balloons.git --> N5QC_20240414 --> N5QC_20240416 is a branch of N5QC_20240414   (NEW -- FETCHED -- BRANCHED)
+
+https://github.com/SteveN5QC/SDR.git --> N5QC_20240416   (NEW -- FETCHED -- BRANCHED)
+
+https://github.com/SteveN5QC/N5QC_EmComm_Tools.git --> N5QC_20240416   (NEW -- FETCHED -- BRANCHED)
+
+
+
+Status for 2024.04.15
+
+https://github.com/SteveN5QC/Git_Education.git  -- Have Local Branch N5QC_20240408_2  -->  Current good active
+
+https://github.com/SteveN5QC/DigiPi.git --> N5QC_20240412  --> N5QC_20240415 is a branch of N5QC_20240412   (PUSHED -- MERGED -- FETCHED -- BRANCHED)
+
+https://github.com/SteveN5QC/Arduino.git -- Have Local Branch N5QC_20240410 -->  Current good active
+
+https://github.com/SteveN5QC/Python.git --> N5QC_20240414 --> N5QC_20240415 is a branch of N5QC_20240414  (PUSHED -- MERGED -- FETCHED -- BRANCHED)
+
+https://github.com/SteveN5QC/Ham_Pi.git --> N5QC_20240412   (NEW -- FETCHED -- BRANCHED)
+
+https://github.com/SteveN5QC/Pico_Balloons.git --> N5QC_20240414   (NEW -- FETCHED -- BRANCHED)
+
+
+
+Status for 2024.04.14
+
+https://github.com/SteveN5QC/Git_Education.git  -- Have Local Branch N5QC_20240408_2  -->  Current good active
+
+https://github.com/SteveN5QC/DigiPi.git --> N5QC_20240412   (PUSHED -- MERGED -- FETCHED -- BRANCHED)
+
+https://github.com/SteveN5QC/Arduino.git -- Have Local Branch N5QC_20240410 -->  Current good active
+
+https://github.com/SteveN5QC/Python.git --> N5QC_20240414   (PUSHED -- MERGED -- FETCHED -- BRANCHED)
+
+https://github.com/SteveN5QC/Ham_Pi.git --> N5QC_20240412   (NEW -- FETCHED -- BRANCHED)
+
+https://github.com/SteveN5QC/Pico_Balloons.git --> N5QC_20240414   (NEW -- FETCHED -- BRANCHED) 
+
+
+
+Status for 2024.04.13
+
+https://github.com/SteveN5QC/Git_Education.git  -- Have Local Branch N5QC_20240408_2  -->  Current good active
+
+https://github.com/SteveN5QC/DigiPi.git --> N5QC_20240412   (PUSHED -- MERGED -- FETCHED -- BRANCHED)
+
+https://github.com/SteveN5QC/Arduino.git -- Have Local Branch N5QC_20240410 -->  Current good active
+
+https://github.com/SteveN5QC/Python.git --> N5QC_20240412   (PUSHED -- MERGED -- FETCHED -- BRANCHED) --> N5QC_20240413_3 --> Pushed Back
+
+https://github.com/SteveN5QC/Ham_Pi.git --> N5QC_20240412   (NEW -- FETCHED -- BRANCHED)
+
+
+
+Status for 2024.04.12
+
+https://github.com/SteveN5QC/Git_Education.git  -- Have Local Branch N5QC_20240408_2  -->  Current good active
+
+https://github.com/SteveN5QC/DigiPi.git --> N5QC_20240412   (PUSHED -- MERGED -- FETCHED -- BRANCHED)
+
+https://github.com/SteveN5QC/Arduino.git -- Have Local Branch N5QC_20240410 -->  Current good active
+
+https://github.com/SteveN5QC/Python.git --> N5QC_20240412   (PUSHED -- MERGED -- FETCHED -- BRANCHED)
+
+https://github.com/SteveN5QC/Ham_Pi.git --> N5QC_20240412   (NEW -- FETCHED -- BRANCHED)
+
+
+
+Status for 2024.04.11
+
+https://github.com/SteveN5QC/Git_Education.git  -- Have Local Branch N5QC_20240408_2  -->  Current good active
+
+https://github.com/SteveN5QC/DigiPi.git --> N5QC_20240411   (PUSHED -- MERGED -- FETCHED -- BRANCHED) --> Pushed Back
+
+https://github.com/SteveN5QC/Arduino.git -- Have Local Branch N5QC_20240410 -->  Current good active
+
+https://github.com/SteveN5QC/Python.git --> N5QC_20240411   (PUSHED -- MERGED -- FETCHED -- BRANCHED) --> Pushed Back
+
+
+
+
+Status for 2024.04.10
+
+https://github.com/SteveN5QC/Git_Education.git  -- Have Local Branch N5QC_20240408_2  -->  Current good active
+
+https://github.com/SteveN5QC/DigiPi.git -- Made Local Branch N5QC_20240409 --> N5QC_20240410   (PUSHED -- MERGED -- FETCHED -- BRANCHED) --> Pushed Back
+
+https://github.com/SteveN5QC/Arduino.git -- NO LOCAL BRANCH -- NO WORK PLANNED --> Make Local Branch N5QC_20240410 (FETCHED -- BRANCHED)
+
+https://github.com/SteveN5QC/Python.git -- Made Local Branch N5QC_20240409 --> N5QC_20240410  (PUSHED -- MERGED -- FETCHED -- BRANCHED) --> Pushed Back
+
+
+
+
+Prep for 2024.04.09
+
+https://github.com/SteveN5QC/Git_Education.git  -- Have Local Branch N5QC_20240408_2
+
+https://github.com/SteveN5QC/DigiPi.git -- Made Local Branch N5QC_20240409
+
+https://github.com/SteveN5QC/Arduino.git -- NO LOCAL BRANCH -- NO WORK PLANNED
+
+https://github.com/SteveN5QC/Python.git -- Made Local Branch N5QC_20240409
+
+
+
+2024.04.08 -- Move Local
+
+https://github.com/SteveN5QC/Git_Education.git  -- Have Local Branch
+
+     fetch origin main
+
+     branch N5QC_20240408_2 FETCH_HEAD
+
+     checkout N5QC_20240408
+
+>>> Snip
+
+C:\Users\N5QC\Documents\Repositories\Git_Education>git checkout N5QC_20240408_2
+Switched to branch 'N5QC_20240408_2'
+
+C:\Users\N5QC\Documents\Repositories\Git_Education>git branch
+  N5QC_20240408
+* N5QC_20240408_2
+  N5QC_Revisions
+  main
+
+C:\Users\N5QC\Documents\Repositories\Git_Education>git status
+On branch N5QC_20240408_2
+nothing to commit, working tree clean
+
+C:\Users\N5QC\Documents\Repositories\Git_Education>
+
+>>>> End Snip
+
+
+
+https://github.com/SteveN5QC/DigiPi.git
+
+     fetch origin main
+
+     branch N5QC_2024040 FETCH_HEAD
+
+     checkout N5QC_20240408
+
+Branch N5QC_20240408 is active and current
+
+
+
+
+https://github.com/SteveN5QC/Arduino.git
+
+https://github.com/SteveN5QC/Python.git
+
+https://github.com/SteveN5QC/Git_Education.git
+
+N5QC_Revisions
