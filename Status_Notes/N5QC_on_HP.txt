@@ -1,0 +1,14 @@
+
+
+Baseline is coming out of Backlog Grooming on 4/22/24
+
+
+
+2024.04.22
+
+
+N5QC on HP
+
+     https://github.com/SteveN5QC/N5QC_EmComm_Tools.git --> Planned
+
+     https://github.com/SteveN5QC/Python.git --> N5QC_20240422  (PUSHED -- MERGED -- FETCHED -- BRANCH)
