@@ -10,3 +10,66 @@ Random3884 on N5QCs_Pi
 
      
      https://github.com/SteveN5QC/Python.git --> RPi_20240422  (PUSHED -- MERGED -- FETCHED -- BRANCHED)
+
+
+
+=====================================================================================
+
+TEMPLATE BASED ON N5QC on HP
+
+=====================================================================================
+
+
+
+N5QC on HP
+
+Baseline is coming out of Backlog Grooming on 4/22/24
+
+
+
+2024.04.23
+
+
+     https://github.com/SteveN5QC/Backlog.git --> N5QC_Remote  (PUSHED -- MERGED -- FETCHED -- BRANCHED)
+
+     https://github.com/SteveN5QC/Standard_Work.git --> N5QC_Remote  (PUSHED -- MERGED -- FETCHED -- BRANCHED)
+
+     https://github.com/SteveN5QC/N5QC_EmComm_Tools.git --> N5QC_Remote  (PUSHED -- MERGED -- FETCHED -- BRANCHED)
+
+
+
+2024.04.22
+
+
+     https://github.com/SteveN5QC/Python.git --> N5QC_20240422  (PUSHED -- MERGED -- FETCHED -- BRANCHED)
+
+
+
+GitHub Repositories 
+
+     Active
+
+          https://github.com/SteveN5QC/Git_Education.git --> Active
+
+          https://github.com/SteveN5QC/Python.git --> Active
+
+          https://github.com/SteveN5QC/Backlog.git --> Active
+
+          https://github.com/SteveN5QC/Standard_Work.git --> Active
+
+
+
+     Backloged
+
+         https://github.com/SteveN5QC/DigiPi.git --> Backloged
+
+         https://github.com/SteveN5QC/Arduino.git --> Backloged
+
+         https://github.com/SteveN5QC/Ham_Pi.git --> Backloged
+
+         https://github.com/SteveN5QC/Pico_Balloons.git --> Backloged
+
+         https://github.com/SteveN5QC/SDR.git --> Backloged
+
+         https://github.com/SteveN5QC/N5QC_EmComm_Tools.git --> Backloged
+
